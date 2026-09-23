@@ -1,0 +1,37 @@
+# Build trees
+/build/
+/out/
+/install/
+/_build/
+cmake-build-*/
+
+# Local tooling output
+/.vs/
+/.vscode/
+/.idea/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Compiled artifacts and debris
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.lib
+*.exp
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.dmp
+*.gcda
+*.gcno
+
+# Local scratch
+/scratch/
+/local/
+*.local.json
